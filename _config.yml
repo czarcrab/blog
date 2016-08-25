@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Ajay Malhotra"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+name                     : "Ajay Malhotra"
+description              : "Ajay's blog."
+url                      : "https://czarcrab.github.io" # the base hostname & protocol for your site e.g.
+baseurl                  : "/blog" # the subpath of your site, e.g.
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ajay Malhotra"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Algo Trader, programmer, quant, startup guy."
+  location         : "Toronto Canada"
   email            :
   uri              :
   bitbucket        :
